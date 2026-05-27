@@ -1,24 +1,224 @@
 {
-  "serie_b": [
-    {
-      "posicao": 1,
-      "time": "Goiás",
-      "pontos": 35
-    },
-    {
-      "posicao": 2,
-      "time": "Novorizontino",
-      "pontos": 33
-    },
-    {
-      "posicao": 3,
-      "time": "Coritiba",
-      "pontos": 31
-    },
-    {
-      "posicao": 4,
-      "time": "Ceará",
-      "pontos": 30
-    }
-  ]
+"serie_b": [
+{
+"posicao": 1,
+"time": "São Bernardo",
+"pontos": 20,
+"jogos": 10,
+"vitorias": 6,
+"derrotas": 2,
+"saldo_gols": 9,
+"aproveitamento": 66,
+"escudo": "https://logodetimes.com/times/sao-bernardo/logo-sao-bernardo-256.png"
+},
+{
+"posicao": 2,
+"time": "Náutico",
+"pontos": 19,
+"jogos": 10,
+"vitorias": 6,
+"derrotas": 3,
+"saldo_gols": 7,
+"aproveitamento": 63,
+"escudo": "https://logodetimes.com/times/nautico/logo-nautico-256.png"
+},
+{
+"posicao": 3,
+"time": "Sport Recife",
+"pontos": 19,
+"jogos": 10,
+"vitorias": 5,
+"derrotas": 1,
+"saldo_gols": 6,
+"aproveitamento": 63,
+"escudo": "https://logodetimes.com/times/sport-recife/logo-sport-recife-256.png"
+},
+{
+"posicao": 4,
+"time": "Vila Nova",
+"pontos": 19,
+"jogos": 10,
+"vitorias": 5,
+"derrotas": 1,
+"saldo_gols": 5,
+"aproveitamento": 63,
+"escudo": "https://logodetimes.com/times/vila-nova/logo-vila-nova-256.png"
+},
+{
+"posicao": 5,
+"time": "Fortaleza",
+"pontos": 18,
+"jogos": 10,
+"vitorias": 5,
+"derrotas": 2,
+"saldo_gols": 4,
+"aproveitamento": 60,
+"escudo": "https://logodetimes.com/times/fortaleza/logo-fortaleza-256.png"
+},
+{
+"posicao": 6,
+"time": "Goiás",
+"pontos": 16,
+"jogos": 10,
+"vitorias": 5,
+"derrotas": 4,
+"saldo_gols": -1,
+"aproveitamento": 53,
+"escudo": "https://logodetimes.com/times/goias/logo-goias-256.png"
+},
+{
+"posicao": 7,
+"time": "Novorizontino",
+"pontos": 16,
+"jogos": 10,
+"vitorias": 4,
+"derrotas": 2,
+"saldo_gols": 3,
+"aproveitamento": 53,
+"escudo": "https://logodetimes.com/times/novorizontino/logo-novorizontino-256.png"
+},
+{
+"posicao": 8,
+"time": "CRB",
+"pontos": 14,
+"jogos": 10,
+"vitorias": 4,
+"derrotas": 4,
+"saldo_gols": 2,
+"aproveitamento": 46,
+"escudo": "https://logodetimes.com/times/crb/logo-crb-256.png"
+},
+{
+"posicao": 9,
+"time": "Criciúma",
+"pontos": 14,
+"jogos": 10,
+"vitorias": 3,
+"derrotas": 2,
+"saldo_gols": 2,
+"aproveitamento": 46,
+"escudo": "https://logodetimes.com/times/criciuma/logo-criciuma-256.png"
+},
+{
+"posicao": 10,
+"time": "Athletic",
+"pontos": 14,
+"jogos": 10,
+"vitorias": 3,
+"derrotas": 2,
+"saldo_gols": 1,
+"aproveitamento": 46,
+"escudo": "https://logodetimes.com/times/athletic-club/logo-athletic-club-256.png"
+},
+{
+"posicao": 11,
+"time": "Ceará SC",
+"pontos": 13,
+"jogos": 10,
+"vitorias": 3,
+"derrotas": 3,
+"saldo_gols": 0,
+"aproveitamento": 43,
+"escudo": "https://logodetimes.com/times/ceara/logo-ceara-256.png"
+},
+{
+"posicao": 12,
+"time": "Juventude",
+"pontos": 13,
+"jogos": 10,
+"vitorias": 3,
+"derrotas": 3,
+"saldo_gols": 0,
+"aproveitamento": 43,
+"escudo": "https://logodetimes.com/times/juventude/logo-juventude-256.png"
+},
+{
+"posicao": 13,
+"time": "Operário",
+"pontos": 13,
+"jogos": 10,
+"vitorias": 3,
+"derrotas": 3,
+"saldo_gols": -3,
+"aproveitamento": 43,
+"escudo": "https://logodetimes.com/times/operario/logo-operario-256.png"
+},
+{
+"posicao": 14,
+"time": "Atlético-GO",
+"pontos": 12,
+"jogos": 10,
+"vitorias": 3,
+"derrotas": 4,
+"saldo_gols": -1,
+"aproveitamento": 40,
+"escudo": "https://logodetimes.com/times/atletico-goianiense/logo-atletico-goianiense-256.png"
+},
+{
+"posicao": 15,
+"time": "Avaí",
+"pontos": 10,
+"jogos": 10,
+"vitorias": 2,
+"derrotas": 4,
+"saldo_gols": -3,
+"aproveitamento": 33,
+"escudo": "https://logodetimes.com/times/avai/logo-avai-256.png"
+},
+{
+"posicao": 16,
+"time": "Cuiabá",
+"pontos": 10,
+"jogos": 10,
+"vitorias": 1,
+"derrotas": 2,
+"saldo_gols": -1,
+"aproveitamento": 33,
+"escudo": "https://logodetimes.com/times/cuiaba/logo-cuiaba-256.png"
+},
+{
+"posicao": 17,
+"time": "Botafogo SP",
+"pontos": 9,
+"jogos": 10,
+"vitorias": 2,
+"derrotas": 5,
+"saldo_gols": 0,
+"aproveitamento": 30,
+"escudo": "https://logodetimes.com/times/botafogo-sp/logo-botafogo-sp-256.png"
+},
+{
+"posicao": 18,
+"time": "Londrina",
+"pontos": 8,
+"jogos": 10,
+"vitorias": 2,
+"derrotas": 6,
+"saldo_gols": -6,
+"aproveitamento": 26,
+"escudo": "https://logodetimes.com/times/londrina/logo-londrina-256.png"
+},
+{
+"posicao": 19,
+"time": "Ponte Preta",
+"pontos": 7,
+"jogos": 10,
+"vitorias": 2,
+"derrotas": 7,
+"saldo_gols": -11,
+"aproveitamento": 23,
+"escudo": "https://logodetimes.com/times/ponte-preta/logo-ponte-preta-256.png"
+},
+{
+"posicao": 20,
+"time": "América-MG",
+"pontos": 3,
+"jogos": 10,
+"vitorias": 0,
+"derrotas": 7,
+"saldo_gols": -13,
+"aproveitamento": 10,
+"escudo": "https://logodetimes.com/times/america-mineiro/logo-america-mineiro-256.png"
+}
+]
 }
