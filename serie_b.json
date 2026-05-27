@@ -1,0 +1,24 @@
+{
+  "serie_b": [
+    {
+      "posicao": 1,
+      "time": "Goiás",
+      "pontos": 35
+    },
+    {
+      "posicao": 2,
+      "time": "Novorizontino",
+      "pontos": 33
+    },
+    {
+      "posicao": 3,
+      "time": "Coritiba",
+      "pontos": 31
+    },
+    {
+      "posicao": 4,
+      "time": "Ceará",
+      "pontos": 30
+    }
+  ]
+}
