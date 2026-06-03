@@ -2,7 +2,7 @@
   "competicao": "Copa do Mundo 2026",
   "modelo": "Modelo 2 - Classificação dos grupos e jogos",
   "ultima_atualizacao": "2026-06-03",
-  "observacao": "Arquivo atualizado para exibir o nome do estádio no card do jogo. O campo \"estadio\" usa nomes comuns dos estádios, sem cidade/pais.",
+  "observacao": "Arquivo atualizado com bandeiras retangulares oficiais das seleções para exibição no app.",
   "grupos": [
     {
       "grupo": "A",
@@ -18,7 +18,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/mx.png"
         },
         {
           "posicao": 2,
@@ -31,7 +32,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/za.png"
         },
         {
           "posicao": 3,
@@ -44,7 +46,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/kr.png"
         },
         {
           "posicao": 4,
@@ -57,7 +60,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/cz.png"
         }
       ]
     },
@@ -75,7 +79,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/ca.png"
         },
         {
           "posicao": 2,
@@ -88,7 +93,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/qa.png"
         },
         {
           "posicao": 3,
@@ -101,7 +107,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/ch.png"
         },
         {
           "posicao": 4,
@@ -114,7 +121,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/ba.png"
         }
       ]
     },
@@ -132,7 +140,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/br.png"
         },
         {
           "posicao": 2,
@@ -145,7 +154,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/ma.png"
         },
         {
           "posicao": 3,
@@ -158,7 +168,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/ht.png"
         },
         {
           "posicao": 4,
@@ -171,7 +182,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/gb-sct.png"
         }
       ]
     },
@@ -189,7 +201,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/us.png"
         },
         {
           "posicao": 2,
@@ -202,7 +215,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/py.png"
         },
         {
           "posicao": 3,
@@ -215,7 +229,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/au.png"
         },
         {
           "posicao": 4,
@@ -228,7 +243,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/tr.png"
         }
       ]
     },
@@ -246,7 +262,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/de.png"
         },
         {
           "posicao": 2,
@@ -259,7 +276,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/cw.png"
         },
         {
           "posicao": 3,
@@ -272,7 +290,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/ci.png"
         },
         {
           "posicao": 4,
@@ -285,7 +304,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/ec.png"
         }
       ]
     },
@@ -303,7 +323,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/nl.png"
         },
         {
           "posicao": 2,
@@ -316,7 +337,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/jp.png"
         },
         {
           "posicao": 3,
@@ -329,7 +351,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/se.png"
         },
         {
           "posicao": 4,
@@ -342,7 +365,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/tn.png"
         }
       ]
     },
@@ -360,7 +384,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/be.png"
         },
         {
           "posicao": 2,
@@ -373,7 +398,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/eg.png"
         },
         {
           "posicao": 3,
@@ -386,7 +412,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/ir.png"
         },
         {
           "posicao": 4,
@@ -399,7 +426,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/nz.png"
         }
       ]
     },
@@ -417,7 +445,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/es.png"
         },
         {
           "posicao": 2,
@@ -430,7 +459,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/cv.png"
         },
         {
           "posicao": 3,
@@ -443,7 +473,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/sa.png"
         },
         {
           "posicao": 4,
@@ -456,7 +487,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/uy.png"
         }
       ]
     },
@@ -474,7 +506,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/fr.png"
         },
         {
           "posicao": 2,
@@ -487,7 +520,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/sn.png"
         },
         {
           "posicao": 3,
@@ -500,7 +534,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/iq.png"
         },
         {
           "posicao": 4,
@@ -513,7 +548,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/no.png"
         }
       ]
     },
@@ -531,7 +567,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/ar.png"
         },
         {
           "posicao": 2,
@@ -544,7 +581,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/dz.png"
         },
         {
           "posicao": 3,
@@ -557,7 +595,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/at.png"
         },
         {
           "posicao": 4,
@@ -570,7 +609,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/jo.png"
         }
       ]
     },
@@ -588,7 +628,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/pt.png"
         },
         {
           "posicao": 2,
@@ -601,7 +642,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/cd.png"
         },
         {
           "posicao": 3,
@@ -614,7 +656,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/uz.png"
         },
         {
           "posicao": 4,
@@ -627,7 +670,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/co.png"
         }
       ]
     },
@@ -645,7 +689,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/gb-eng.png"
         },
         {
           "posicao": 2,
@@ -658,7 +703,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/hr.png"
         },
         {
           "posicao": 3,
@@ -671,7 +717,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/gh.png"
         },
         {
           "posicao": 4,
@@ -684,7 +731,8 @@
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/pa.png"
         }
       ]
     }
