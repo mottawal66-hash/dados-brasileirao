@@ -2,6 +2,20 @@
   "serie_b": [
     {
       "posicao": 1,
+      "time": "São Bernardo",
+      "pontos": 25,
+      "jogos": 13,
+      "vitorias": 7,
+      "empates": 4,
+      "derrotas": 2,
+      "gols_pro": 20,
+      "gols_contra": 10,
+      "saldo_gols": 10,
+      "aproveitamento": 64,
+      "escudo": "https://logodetimes.com/times/sao-bernardo/logo-sao-bernardo-256.png"
+    },
+    {
+      "posicao": 2,
       "time": "Vila Nova",
       "pontos": 25,
       "jogos": 12,
@@ -15,31 +29,17 @@
       "escudo": "https://logodetimes.com/times/vila-nova/logo-vila-nova-256.png"
     },
     {
-      "posicao": 2,
-      "time": "São Bernardo",
-      "pontos": 24,
-      "jogos": 12,
-      "vitorias": 7,
-      "empates": 3,
-      "derrotas": 2,
-      "gols_pro": 20,
-      "gols_contra": 10,
-      "saldo_gols": 10,
-      "aproveitamento": 67,
-      "escudo": "https://logodetimes.com/times/sao-bernardo/logo-sao-bernardo-256.png"
-    },
-    {
       "posicao": 3,
-      "time": "Sport Recife",
-      "pontos": 22,
-      "jogos": 11,
+      "time": "Sport",
+      "pontos": 24,
+      "jogos": 13,
       "vitorias": 6,
-      "empates": 4,
+      "empates": 6,
       "derrotas": 1,
-      "gols_pro": 15,
-      "gols_contra": 7,
+      "gols_pro": 16,
+      "gols_contra": 8,
       "saldo_gols": 8,
-      "aproveitamento": 67,
+      "aproveitamento": 61,
       "escudo": "https://logodetimes.com/times/sport-recife/logo-sport-recife-256.png"
     },
     {
@@ -58,6 +58,20 @@
     },
     {
       "posicao": 5,
+      "time": "Novorizontino",
+      "pontos": 20,
+      "jogos": 12,
+      "vitorias": 5,
+      "empates": 5,
+      "derrotas": 2,
+      "gols_pro": 18,
+      "gols_contra": 11,
+      "saldo_gols": 7,
+      "aproveitamento": 55,
+      "escudo": "https://logodetimes.com/times/novorizontino/logo-novorizontino-256.png"
+    },
+    {
+      "posicao": 6,
       "time": "Criciúma",
       "pontos": 20,
       "jogos": 12,
@@ -67,11 +81,11 @@
       "gols_pro": 14,
       "gols_contra": 10,
       "saldo_gols": 4,
-      "aproveitamento": 56,
+      "aproveitamento": 55,
       "escudo": "https://logodetimes.com/times/criciuma/logo-criciuma-256.png"
     },
     {
-      "posicao": 6,
+      "posicao": 7,
       "time": "Náutico",
       "pontos": 19,
       "jogos": 12,
@@ -81,11 +95,25 @@
       "gols_pro": 16,
       "gols_contra": 12,
       "saldo_gols": 4,
-      "aproveitamento": 53,
+      "aproveitamento": 52,
       "escudo": "https://logodetimes.com/times/nautico/logo-nautico-256.png"
     },
     {
-      "posicao": 7,
+      "posicao": 8,
+      "time": "Juventude",
+      "pontos": 19,
+      "jogos": 13,
+      "vitorias": 5,
+      "empates": 4,
+      "derrotas": 4,
+      "gols_pro": 13,
+      "gols_contra": 8,
+      "saldo_gols": 5,
+      "aproveitamento": 48,
+      "escudo": "https://logodetimes.com/times/juventude/logo-juventude-256.png"
+    },
+    {
+      "posicao": 9,
       "time": "Operário-PR",
       "pontos": 19,
       "jogos": 12,
@@ -95,81 +123,67 @@
       "gols_pro": 14,
       "gols_contra": 15,
       "saldo_gols": -1,
-      "aproveitamento": 53,
+      "aproveitamento": 52,
       "escudo": "https://logodetimes.com/times/operario/logo-operario-256.png"
-    },
-    {
-      "posicao": 8,
-      "time": "Goiás",
-      "pontos": 17,
-      "jogos": 11,
-      "vitorias": 5,
-      "empates": 2,
-      "derrotas": 4,
-      "gols_pro": 12,
-      "gols_contra": 13,
-      "saldo_gols": -1,
-      "aproveitamento": 52,
-      "escudo": "https://logodetimes.com/times/goias/logo-goias-256.png"
-    },
-    {
-      "posicao": 9,
-      "time": "Novorizontino",
-      "pontos": 17,
-      "jogos": 11,
-      "vitorias": 4,
-      "empates": 5,
-      "derrotas": 2,
-      "gols_pro": 14,
-      "gols_contra": 11,
-      "saldo_gols": 3,
-      "aproveitamento": 52,
-      "escudo": "https://logodetimes.com/times/novorizontino/logo-novorizontino-256.png"
     },
     {
       "posicao": 10,
       "time": "Athletic Club",
-      "pontos": 17,
-      "jogos": 11,
+      "pontos": 19,
+      "jogos": 13,
       "vitorias": 4,
-      "empates": 5,
+      "empates": 7,
       "derrotas": 2,
-      "gols_pro": 13,
-      "gols_contra": 11,
+      "gols_pro": 14,
+      "gols_contra": 12,
       "saldo_gols": 2,
-      "aproveitamento": 52,
+      "aproveitamento": 48,
       "escudo": "https://logodetimes.com/times/athletic-club/logo-athletic-club-256.png"
     },
     {
       "posicao": 11,
-      "time": "Juventude",
-      "pontos": 16,
-      "jogos": 12,
-      "vitorias": 4,
-      "empates": 4,
-      "derrotas": 4,
-      "gols_pro": 10,
-      "gols_contra": 8,
-      "saldo_gols": 2,
-      "aproveitamento": 44,
-      "escudo": "https://logodetimes.com/times/juventude/logo-juventude-256.png"
+      "time": "Goiás",
+      "pontos": 18,
+      "jogos": 13,
+      "vitorias": 5,
+      "empates": 3,
+      "derrotas": 5,
+      "gols_pro": 12,
+      "gols_contra": 17,
+      "saldo_gols": -5,
+      "aproveitamento": 46,
+      "escudo": "https://logodetimes.com/times/goias/logo-goias-256.png"
     },
     {
       "posicao": 12,
       "time": "Atlético-GO",
+      "pontos": 17,
+      "jogos": 13,
+      "vitorias": 4,
+      "empates": 5,
+      "derrotas": 4,
+      "gols_pro": 15,
+      "gols_contra": 15,
+      "saldo_gols": 0,
+      "aproveitamento": 43,
+      "escudo": "https://logodetimes.com/times/atletico-goianiense/logo-atletico-goianiense-256.png"
+    },
+    {
+      "posicao": 13,
+      "time": "Ceará",
       "pontos": 16,
       "jogos": 12,
       "vitorias": 4,
       "empates": 4,
       "derrotas": 4,
-      "gols_pro": 12,
-      "gols_contra": 12,
+      "gols_pro": 14,
+      "gols_contra": 14,
       "saldo_gols": 0,
       "aproveitamento": 44,
-      "escudo": "https://logodetimes.com/times/atletico-goianiense/logo-atletico-goianiense-256.png"
+      "escudo": "https://logodetimes.com/times/ceara/logo-ceara-256.png"
     },
     {
-      "posicao": 13,
+      "posicao": 14,
       "time": "Cuiabá",
       "pontos": 16,
       "jogos": 12,
@@ -183,32 +197,18 @@
       "escudo": "https://logodetimes.com/times/cuiaba/logo-cuiaba-256.png"
     },
     {
-      "posicao": 14,
-      "time": "CRB",
-      "pontos": 14,
-      "jogos": 12,
-      "vitorias": 4,
-      "empates": 2,
-      "derrotas": 6,
-      "gols_pro": 19,
-      "gols_contra": 20,
-      "saldo_gols": -1,
-      "aproveitamento": 39,
-      "escudo": "https://logodetimes.com/times/crb/logo-crb-256.png"
-    },
-    {
       "posicao": 15,
-      "time": "Ceará",
-      "pontos": 13,
-      "jogos": 11,
-      "vitorias": 3,
-      "empates": 4,
-      "derrotas": 4,
-      "gols_pro": 12,
-      "gols_contra": 13,
+      "time": "CRB",
+      "pontos": 15,
+      "jogos": 13,
+      "vitorias": 4,
+      "empates": 3,
+      "derrotas": 6,
+      "gols_pro": 22,
+      "gols_contra": 23,
       "saldo_gols": -1,
-      "aproveitamento": 39,
-      "escudo": "https://logodetimes.com/times/ceara/logo-ceara-256.png"
+      "aproveitamento": 38,
+      "escudo": "https://logodetimes.com/times/crb/logo-crb-256.png"
     },
     {
       "posicao": 16,
@@ -221,21 +221,21 @@
       "gols_pro": 11,
       "gols_contra": 12,
       "saldo_gols": -1,
-      "aproveitamento": 28,
+      "aproveitamento": 27,
       "escudo": "https://logodetimes.com/times/botafogo-sp/logo-botafogo-sp-256.png"
     },
     {
       "posicao": 17,
       "time": "Avaí",
       "pontos": 10,
-      "jogos": 11,
+      "jogos": 12,
       "vitorias": 2,
       "empates": 4,
-      "derrotas": 5,
-      "gols_pro": 11,
-      "gols_contra": 15,
-      "saldo_gols": -4,
-      "aproveitamento": 30,
+      "derrotas": 6,
+      "gols_pro": 12,
+      "gols_contra": 17,
+      "saldo_gols": -5,
+      "aproveitamento": 27,
       "escudo": "https://logodetimes.com/times/avai/logo-avai-256.png"
     },
     {
@@ -256,14 +256,14 @@
       "posicao": 19,
       "time": "Ponte Preta",
       "pontos": 8,
-      "jogos": 12,
+      "jogos": 13,
       "vitorias": 2,
       "empates": 2,
-      "derrotas": 8,
+      "derrotas": 9,
       "gols_pro": 10,
-      "gols_contra": 22,
-      "saldo_gols": -12,
-      "aproveitamento": 22,
+      "gols_contra": 25,
+      "saldo_gols": -15,
+      "aproveitamento": 20,
       "escudo": "https://logodetimes.com/times/ponte-preta/logo-ponte-preta-256.png"
     },
     {
@@ -357,26 +357,32 @@
       {
         "mandante": "Ceará",
         "visitante": "Avaí",
+        "placar_mandante": 2,
+        "placar_visitante": 1,
         "data": "10/06",
         "hora": "20:00",
         "estadio": "Presidente Vargas (CE)",
-        "status": "AGENDADO"
+        "status": "FINALIZADO"
       },
       {
         "mandante": "Goiás",
         "visitante": "Novorizontino",
+        "placar_mandante": 0,
+        "placar_visitante": 4,
         "data": "10/06",
         "hora": "20:00",
         "estadio": "Hailé Pinheiro (Serrinha)",
-        "status": "AGENDADO"
+        "status": "FINALIZADO"
       },
       {
         "mandante": "Sport",
         "visitante": "Athletic Club",
+        "placar_mandante": 1,
+        "placar_visitante": 1,
         "data": "10/06",
         "hora": "21:00",
         "estadio": "Ilha do Retiro",
-        "status": "AGENDADO"
+        "status": "FINALIZADO"
       }
     ]
   },
@@ -385,83 +391,91 @@
     "partidas": [
       {
         "mandante": "Atlético-GO",
-      "visitante": "CRB",
-      "data": "12/06",
-      "hora": "19:00",
-      "estadio": "Antônio Accioly",
-      "status": "AGENDADO"
-    },
-    {
-      "mandante": "São Bernardo",
-      "visitante": "Sport Recife",
-      "data": "14/06",
-      "hora": "11:00",
-      "estadio": "Campo do 1º de Maio",
-      "status": "AGENDADO"
-    },
-    {
-      "mandante": "Juventude",
-      "visitante": "Ponte Preta",
-      "data": "14/06",
-      "hora": "11:00",
-      "estadio": "Alfredo Jaconi",
-      "status": "AGENDADO"
-    },
-    {
-      "mandante": "Athletic Club",
-      "visitante": "Goiás",
-      "data": "14/06",
-      "hora": "16:00",
-      "estadio": "Arena Sicredi",
-      "status": "AGENDADO"
-    },
-    {
-      "mandante": "Cuiabá",
-      "visitante": "Vila Nova",
-      "data": "14/06",
-      "hora": "16:00",
-      "estadio": "Arena Pantanal",
-      "status": "AGENDADO"
-    },
-    {
-      "mandante": "Botafogo-SP",
-      "visitante": "Operário-PR",
-      "data": "14/06",
-      "hora": "19:00",
-      "estadio": "Arena Nicnet (Santa Cruz)",
-      "status": "AGENDADO"
-    },
-    {
-      "mandante": "Novorizontino",
-      "visitante": "Náutico",
-      "data": "14/06",
-      "hora": "19:00",
-      "estadio": "Jorge Ismael de Biasi",
-      "status": "AGENDADO"
-    },
-    {
-      "mandante": "Londrina",
-      "visitante": "Avaí",
-      "data": "15/06",
-      "hora": "21:00",
-      "estadio": "VGD",
-      "status": "AGENDADO"
-    },
-    {
-      "mandante": "Criciúma",
-      "visitante": "Ceará",
-      "data": "15/06",
-      "hora": "21:00",
-      "estadio": "Heriberto Hülse",
-      "status": "AGENDADO"
-    },
-    {
-      "mandante": "Fortaleza",
-      "visitante": "América-MG",
-      "data": "16/06",
-      "hora": "20:00",
-      "estadio": "Castelão (CE)",
-      "status": "AGENDADO"
+        "visitante": "CRB",
+        "placar_mandante": 3,
+        "placar_visitante": 3,
+        "data": "12/06",
+        "hora": "19:00",
+        "estadio": "Antônio Accioly",
+        "status": "FINALIZADO"
+      },
+      {
+        "mandante": "São Bernardo",
+        "visitante": "Sport",
+        "placar_mandante": 0,
+        "placar_visitante": 0,
+        "data": "14/06",
+        "hora": "11:00",
+        "estadio": "Campo do 1º de Maio",
+        "status": "FINALIZADO"
+      },
+      {
+        "mandante": "Juventude",
+        "visitante": "Ponte Preta",
+        "placar_mandante": 3,
+        "placar_visitante": 0,
+        "data": "14/06",
+        "hora": "11:00",
+        "estadio": "Alfredo Jaconi",
+        "status": "FINALIZADO"
+      },
+      {
+        "mandante": "Athletic Club",
+        "visitante": "Goiás",
+        "placar_mandante": 0,
+        "placar_visitante": 0,
+        "data": "14/06",
+        "hora": "16:00",
+        "estadio": "Arena Sicredi",
+        "status": "PRE-JOGO"
+      },
+      {
+        "mandante": "Cuiabá",
+        "visitante": "Vila Nova",
+        "data": "14/06",
+        "hora": "17:00",
+        "estadio": "Arena Pantanal",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "Botafogo-SP",
+        "visitante": "Operário-PR",
+        "data": "14/06",
+        "hora": "19:00",
+        "estadio": "Arena Nicnet (Santa Cruz)",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "Novorizontino",
+        "visitante": "Náutico",
+        "data": "14/06",
+        "hora": "19:00",
+        "estadio": "Jorge Ismael de Biasi",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "Londrina",
+        "visitante": "Avaí",
+        "data": "15/06",
+        "hora": "21:00",
+        "estadio": "VGD",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "Criciúma",
+        "visitante": "Ceará",
+        "data": "15/06",
+        "hora": "21:00",
+        "estadio": "Heriberto Hulse",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "Fortaleza",
+        "visitante": "América-MG",
+        "data": "16/06",
+        "hora": "20:00",
+        "estadio": "Castelão (CE)",
+        "status": "AGENDADO"
       }
     ]
   }
