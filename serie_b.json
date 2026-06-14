@@ -282,111 +282,6 @@
     }
   ],
   "ultima_rodada": {
-    "rodada": 12,
-    "partidas": [
-      {
-        "mandante": "Operário-PR",
-        "visitante": "Juventude",
-        "placar_mandante": 2,
-        "placar_visitante": 1,
-        "data": "05/06",
-        "hora": "20:00",
-        "estadio": "Couto Pereira",
-        "status": "FINALIZADO"
-      },
-      {
-        "mandante": "Criciúma",
-        "visitante": "Londrina",
-        "placar_mandante": 1,
-        "placar_visitante": 0,
-        "data": "06/06",
-        "hora": "11:00",
-        "estadio": "Heriberto Hulse",
-        "status": "FINALIZADO"
-      },
-      {
-        "mandante": "CRB",
-        "visitante": "São Bernardo",
-        "placar_mandante": 2,
-        "placar_visitante": 3,
-        "data": "07/06",
-        "hora": "16:00",
-        "estadio": "Rei Pelé (AL)",
-        "status": "FINALIZADO"
-      },
-      {
-        "mandante": "América-MG",
-        "visitante": "Atlético-GO",
-        "placar_mandante": 1,
-        "placar_visitante": 2,
-        "data": "08/06",
-        "hora": "20:00",
-        "estadio": "Independência",
-        "status": "FINALIZADO"
-      },
-      {
-        "mandante": "Vila Nova",
-        "visitante": "Botafogo-SP",
-        "placar_mandante": 1,
-        "placar_visitante": 0,
-        "data": "08/06",
-        "hora": "20:00",
-        "estadio": "OBA",
-        "status": "FINALIZADO"
-      },
-      {
-        "mandante": "Ponte Preta",
-        "visitante": "Cuiabá",
-        "placar_mandante": 1,
-        "placar_visitante": 2,
-        "data": "09/06",
-        "hora": "19:00",
-        "estadio": "Moisés Lucarelli",
-        "status": "FINALIZADO"
-      },
-      {
-        "mandante": "Náutico",
-        "visitante": "Fortaleza",
-        "placar_mandante": 0,
-        "placar_visitante": 1,
-        "data": "09/06",
-        "hora": "19:00",
-        "estadio": "Esportes da Sorte Aflitos",
-        "status": "FINALIZADO"
-      },
-      {
-        "mandante": "Ceará",
-        "visitante": "Avaí",
-        "placar_mandante": 2,
-        "placar_visitante": 1,
-        "data": "10/06",
-        "hora": "20:00",
-        "estadio": "Presidente Vargas (CE)",
-        "status": "FINALIZADO"
-      },
-      {
-        "mandante": "Goiás",
-        "visitante": "Novorizontino",
-        "placar_mandante": 0,
-        "placar_visitante": 4,
-        "data": "10/06",
-        "hora": "20:00",
-        "estadio": "Hailé Pinheiro (Serrinha)",
-        "status": "FINALIZADO"
-      },
-      {
-        "mandante": "Sport",
-        "visitante": "Athletic Club",
-        "placar_mandante": 1,
-        "placar_visitante": 1,
-        "data": "10/06",
-        "hora": "21:00",
-        "estadio": "Ilha do Retiro",
-        "status": "FINALIZADO"
-      }
-    ]
-  },
-  "proxima_rodada": {
     "rodada": 13,
     "partidas": [
       {
@@ -475,6 +370,91 @@
         "data": "16/06",
         "hora": "20:00",
         "estadio": "Castelão (CE)",
+        "status": "AGENDADO"
+      }
+    ]
+  },
+  "proxima_rodada": {
+    "rodada": 14,
+    "partidas": [
+      {
+        "mandante": "Goiás",
+        "visitante": "Operário-PR",
+        "data": "18/06",
+        "hora": "19:00",
+        "estadio": "Hailé Pinheiro (Serrinha)",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "Sport",
+        "visitante": "Atlético-GO",
+        "data": "18/06",
+        "hora": "21:00",
+        "estadio": "Ilha do Retiro",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "Londrina",
+        "visitante": "Athletic Club",
+        "data": "20/06",
+        "hora": "11:00",
+        "estadio": "VGD",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "Ceará",
+        "visitante": "Botafogo-SP",
+        "data": "20/06",
+        "hora": "19:00",
+        "estadio": "Castelão (CE)",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "Vila Nova",
+        "visitante": "Náutico",
+        "data": "20/06",
+        "hora": "19:00",
+        "estadio": "OBA",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "São Bernardo",
+        "visitante": "Juventude",
+        "data": "21/06",
+        "hora": "11:00",
+        "estadio": "Campo do 1º de Maio",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "Avaí",
+        "visitante": "Cuiabá",
+        "data": "21/06",
+        "hora": "11:00",
+        "estadio": "Ressacada",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "CRB",
+        "visitante": "Fortaleza",
+        "data": "21/06",
+        "hora": "16:00",
+        "estadio": "Rei Pelé (AL)",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "Ponte Preta",
+        "visitante": "Novorizontino",
+        "data": "22/06",
+        "hora": "20:00",
+        "estadio": "Moisés Lucarelli",
+        "status": "AGENDADO"
+      },
+      {
+        "mandante": "América-MG",
+        "visitante": "Criciúma",
+        "data": "23/06",
+        "hora": "20:00",
+        "estadio": "Independência",
         "status": "AGENDADO"
       }
     ]
