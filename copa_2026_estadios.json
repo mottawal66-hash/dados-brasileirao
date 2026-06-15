@@ -437,29 +437,29 @@
         {
           "posicao": 1,
           "time": "Espanha",
-          "pontos": 0,
-          "jogos": 0,
+          "pontos": 1,
+          "jogos": 1,
           "vitorias": 0,
-          "empates": 0,
+          "empates": 1,
           "derrotas": 0,
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0",
+          "aproveitamento": "33",
           "bandeira": "https://flagcdn.com/w80/es.png"
         },
         {
           "posicao": 2,
           "time": "Cabo Verde",
-          "pontos": 0,
-          "jogos": 0,
+          "pontos": 1,
+          "jogos": 1,
           "vitorias": 0,
-          "empates": 0,
+          "empates": 1,
           "derrotas": 0,
           "gols_pro": 0,
           "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "0",
+          "aproveitamento": "33",
           "bandeira": "https://flagcdn.com/w80/cv.png"
         },
         {
@@ -916,9 +916,9 @@
       "data": "15/06/2026",
       "hora": "13:00",
       "estadio": "Mercedes-Benz Stadium",
-      "status": "agendado",
-      "placar_mandante": "",
-      "placar_visitante": ""
+      "status": "finalizado",
+      "placar_mandante": 0,
+      "placar_visitante": 0
     },
     {
       "id": 14,
