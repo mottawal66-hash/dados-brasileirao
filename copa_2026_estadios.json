@@ -930,9 +930,9 @@
       "data": "15/06/2026",
       "hora": "16:00",
       "estadio": "Lumen Field",
-      "status": "agendado",
-      "placar_mandante": "",
-      "placar_visitante": ""
+      "status": "Finalizado",
+      "placar_mandante": 1,
+      "placar_visitante": 1
     },
     {
       "id": 15,
