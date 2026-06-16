@@ -157,7 +157,7 @@
           "bandeira": "https://flagcdn.com/w80/br.png"
         },
         {
-          "posicao": 2,
+          "posicao": 3,
           "time": "Marrocos",
           "pontos": 1,
           "jogos": 1,
@@ -354,7 +354,7 @@
           "bandeira": "https://flagcdn.com/w80/nl.png"
         },
         {
-          "posicao": 3,
+          "posicao": 4,
           "time": "Tunísia",
           "pontos": 0,
           "jogos": 1,
@@ -374,34 +374,20 @@
       "times": [
         {
           "posicao": 1,
-          "time": "Bélgica",
-          "pontos": 1,
-          "jogos": 1,
+          "time": "Nova Zelândia",
+          "pontos": 0,
+          "jogos": 0,
           "vitorias": 0,
-          "empates": 1,
+          "empates": 0,
           "derrotas": 0,
-          "gols_pro": 1,
-          "gols_contra": 1,
+          "gols_pro": 0,
+          "gols_contra": 0,
           "saldo_gols": 0,
-          "aproveitamento": "33",
-          "bandeira": "https://flagcdn.com/w80/be.png"
+          "aproveitamento": "0",
+          "bandeira": "https://flagcdn.com/w80/nz.png"
         },
         {
           "posicao": 2,
-          "time": "Egito",
-          "pontos": 1,
-          "jogos": 1,
-          "vitorias": 0,
-          "empates": 1,
-          "derrotas": 0,
-          "gols_pro": 1,
-          "gols_contra": 1,
-          "saldo_gols": 0,
-          "aproveitamento": "33",
-          "bandeira": "https://flagcdn.com/w80/eg.png"
-        },
-        {
-          "posicao": 3,
           "time": "Irã",
           "pontos": 0,
           "jogos": 0,
@@ -415,18 +401,32 @@
           "bandeira": "https://flagcdn.com/w80/ir.png"
         },
         {
-          "posicao": 4,
-          "time": "Nova Zelândia",
-          "pontos": 0,
-          "jogos": 0,
+          "posicao": 3,
+          "time": "Bélgica",
+          "pontos": 1,
+          "jogos": 1,
           "vitorias": 0,
-          "empates": 0,
+          "empates": 1,
           "derrotas": 0,
-          "gols_pro": 0,
-          "gols_contra": 0,
+          "gols_pro": 1,
+          "gols_contra": 1,
           "saldo_gols": 0,
-          "aproveitamento": "0",
-          "bandeira": "https://flagcdn.com/w80/nz.png"
+          "aproveitamento": "33",
+          "bandeira": "https://flagcdn.com/w80/be.png"
+        },
+        {
+          "posicao": 4,
+          "time": "Egito",
+          "pontos": 1,
+          "jogos": 1,
+          "vitorias": 0,
+          "empates": 1,
+          "derrotas": 0,
+          "gols_pro": 1,
+          "gols_contra": 1,
+          "saldo_gols": 0,
+          "aproveitamento": "33",
+          "bandeira": "https://flagcdn.com/w80/eg.png"
         }
       ]
     },
