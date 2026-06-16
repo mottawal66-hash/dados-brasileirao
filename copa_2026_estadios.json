@@ -436,15 +436,15 @@
         {
           "posicao": 1,
           "time": "Uruguai",
-          "pontos": 0,
-          "jogos": 0,
+          "pontos": 1,
+          "jogos": 1,
           "vitorias": 0,
-          "empates": 0,
+          "empates": 1,
           "derrotas": 0,
-          "gols_pro": 0,
-          "gols_contra": 0,
+          "gols_pro": 1,
+          "gols_contra": 1,
           "saldo_gols": 0,
-          "aproveitamento": "0",
+          "aproveitamento": "33",
           "bandeira": "https://flagcdn.com/w80/uy.png"
         },
         {
